@@ -1,0 +1,6 @@
+Start squares
+
+[4, 16, 36, 64]
+[400, 400, 3600, 6400, 10000]
+
+Done with squares!
